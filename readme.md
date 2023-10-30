@@ -15,7 +15,7 @@ In ```examples``` directory and below you can see some outputs. "example.bmp" is
 ![Blur and Crop](examples/Blur_and_Crop.bmp)
 
 ## Grayscale and Crop:
-![Grayscale and Crop](examples/Grayscale_and_Crop.bmp)
+![Grayscale and Crop](examples/Grayscale_and_Blur.bmp)
 
 ## Edge Detection and Crop:
 ![Edge Detecction and Crop](examples/EdgeDetection_and_Crop.bmp)
